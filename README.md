@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Project // Teutonnia </b>
-  - [Pastebin]([https://pastebin.com/yyrxNDGs](https://pastebin.com/edit/WPy9gJiN))
+  - [Pastebin](https://pastebin.com/edit/WPy9gJiN)
 - <b>Project // Imperial Japan (Old) </b>
   - [Pastebin](https://pastebin.com/p6DFgrS0)
 - <b>Project // Neuschwanstein (Old) </b>
